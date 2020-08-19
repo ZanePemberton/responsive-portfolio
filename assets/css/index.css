@@ -61,3 +61,30 @@ footer {
     color: black;
     font-size: 20px;
 }
+
+@media screen and (max-width: 768px) {
+
+    body{
+        background-color: azure;
+    }
+}
+
+    .header {
+        color: black;
+    }
+
+    .content {
+        background-color: skyblue
+    }
+
+    .image {
+        color: snow;
+    }
+
+    p {
+        color: black;
+    }
+
+    footer {
+        color: black;
+    }

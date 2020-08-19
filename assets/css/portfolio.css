@@ -51,21 +51,30 @@ footer {
     font-size: 20px;
 }
 
-.photo1 {
+.photo {
     padding: 5px;
+}    
+
+@media screen and (max-width: 768px) {
+    body {
+        background-color: azure;
+    }
 }
 
-.photo2 {
-    padding: 5px;
-}
+    .portfolio {
+        background-color: skyblue;
+    }
 
-.photo3 {
-    padding: 5px;
-}
+    .header {
+        color: black;
+    }
+    
+    .photo {
+        color: white;
+    }
 
-.photo4 {
-    padding: 5px;
-}
-.photo5 {
-    padding: 5px;
-}
+    footer {
+        color:black
+    }
+
+    
