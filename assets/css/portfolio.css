@@ -1,0 +1,71 @@
+.body {
+    background-color: azure;
+}
+
+.container {
+    background-color:slategray;
+    font-size: 28px;
+    margin-bottom: 10px;
+}
+
+.nav-link {
+    background-color:slategray;
+    font-size: 28px;
+    font-family: serif;
+    margin-bottom: 10px;
+}
+
+#nametag {
+    color:black;
+    font-size: 32px;
+    font-family: serif;
+}
+
+.portfolio {
+    background-color:skyblue;
+    padding: 30px;
+    padding-bottom: 340px;
+    width: 60%;
+    margin-left: 15px;
+}
+
+.header {
+    margin-top: -10px;
+    color:black;
+    font-family: serif;
+    font-weight: bold;
+    font-size: 40px;
+    margin-bottom: 40px;
+}
+
+footer {
+    left: 0;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    height: 5%;
+    background-color:slategray;
+    text-align: center;
+    font-family: serif;
+    color: black;
+    font-size: 20px;
+}
+
+.photo1 {
+    padding: 5px;
+}
+
+.photo2 {
+    padding: 5px;
+}
+
+.photo3 {
+    padding: 5px;
+}
+
+.photo4 {
+    padding: 5px;
+}
+.photo5 {
+    padding: 5px;
+}

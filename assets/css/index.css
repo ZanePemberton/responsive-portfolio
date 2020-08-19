@@ -1,0 +1,63 @@
+
+.body {
+    background-color: azure;
+}
+
+.container {
+    background-color:slategray;
+    font-size: 28px;
+    width: 100%;;
+}
+
+.nav-link {
+    background-color:slategray;
+    font-size: 28px;
+    font-family: serif;
+}
+
+#nametag {
+    color:black;
+    font-size: 32px;
+    font-family: serif;
+}
+
+.header {
+    background-color:skyblue;
+    color:black;
+    font-family: serif;
+    text-align: left;
+    font-weight: bold;
+}
+
+.content {
+    background-color:skyblue;
+    padding: 15px;
+    padding-bottom: 50px;
+    margin-left: 15px;
+    margin-right: 360px;
+} 
+
+.image{
+    padding: 20px;
+    padding-left: 0px;
+}
+
+p {
+    color:black;
+    font-family: serif;
+    font-size: 16px;
+    text-align: left;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 5%;
+    background-color:slategray;
+    text-align: center;
+    font-family: serif;
+    color: black;
+    font-size: 20px;
+}
