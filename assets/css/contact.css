@@ -46,7 +46,7 @@
 .button {
     margin-left: 200px;
     margin-top: 22px;
-    position: absolute;
+    position: fixed;
     background-color: slategray;
     color: black;
     font-weight: bold;
