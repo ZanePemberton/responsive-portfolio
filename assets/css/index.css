@@ -38,9 +38,10 @@
     margin-top: 10px;
 } 
 
-.image{
-    padding: 20px;
+.photo {
+    padding: 25px;
     padding-left: 0px;
+    margin-right: 5px;
 }
 
 p {
@@ -48,6 +49,8 @@ p {
     font-family: serif;
     font-size: 16px;
     text-align: left;
+}
+
 }
 
 footer {
