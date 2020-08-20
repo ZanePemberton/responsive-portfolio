@@ -38,6 +38,11 @@
     margin-bottom: 40px;
 }
 
+.photo {
+    padding: 5px;
+    position: relative;
+}    
+
 footer {
     left: 0;
     bottom: 0;
